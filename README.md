@@ -7,4 +7,4 @@
 ## Selenium_scraping
   This python file contains the code to extract the same job data automatically from glassdoor website using selenium.
   The user login details and search are automated. 
-  User input is required for job title and location, which is inputed into the website using selenium and the resulting url is then parsed using the code from basic scraper
+  User input is required for job title and location, which is inputed into the website using selenium and the resulting url is then scraped using the code from basic scraper project.
